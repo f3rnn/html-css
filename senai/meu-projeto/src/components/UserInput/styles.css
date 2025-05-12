@@ -1,0 +1,27 @@
+.user-input h2 {
+    color: #000006;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.user-input input [text="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.user-input button {
+    background-color: #0F88F2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 03.s ease;
+}
+
+.user-input button:hover {
+    background-color: #62A1D9;
+}
